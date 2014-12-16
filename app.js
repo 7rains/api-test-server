@@ -5,4 +5,3 @@ http.createServer(function (req, res) {
   res.setHeader('Content-Type', 'application/json');
   res.end(JSON.stringify(json));
 }).listen(8080);
-console.log('http://airbrush.wetpaint.com:8080/');
