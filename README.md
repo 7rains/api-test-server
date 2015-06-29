@@ -1,6 +1,6 @@
 # Nordstrom Coding Assignment
 
-## Requirements
+# Requirements
 
 You'll need ```node.js > 0.11.x``` and ```npm```:
 
@@ -8,20 +8,20 @@ You'll need ```node.js > 0.11.x``` and ```npm```:
 npm install -g gulp
 ```
 
-Install Dependencies
+#Install Dependencies
 
 ```
 npm install
 ```
 
-Build
+#Build
 
 ```
 gulp
 
 ```
 
-Start Server
+#Start Server
 ```
 npm start
 ```
